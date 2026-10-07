@@ -1,0 +1,21 @@
+name: rag_test1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^8.1.7
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
